@@ -48,7 +48,7 @@ List of Unicorn Companies: This dataset contains information about unicorn compa
 
 Startup Funding Data: Additional data about funding rounds for startups.
 
-##Contributing
+## Contributing
 Contributions to Unicorn Company Analysis are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to submit issues or pull requests.
 
 Before contributing, please read our Contributing Guidelines for more details.
